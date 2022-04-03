@@ -42,7 +42,7 @@ exports.group = () =>{
 	}
 
 exports.wait = () =>{
-	return`🌹 *Please Aaa Waiting........* ~`
+	return`⏳ *Please Aaa Waiting........* ~`
 	}
 exports.ok = () =>{
 	return` 🌹 Oke done ~`
